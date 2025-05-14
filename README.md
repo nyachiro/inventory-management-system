@@ -2,6 +2,7 @@
 
 
 ✨ Features
+
 📊 Dashboard
 Provides an overview of sales, and key metrics and some chart.
 
